@@ -1,16 +1,14 @@
 # internationalization_training
 
-Internationalization training project
+This repository is an example Flutter app with internationalization.
 
-## Getting Started
+You can find all countries and languages code here: https://www.fincher.org/Utilities/CountryLanguageList.shtml
 
-This project is a starting point for a Flutter application.
+You can find the String (emoji) of countries flags here: https://flagpedia.net/emoji
 
-A few resources to get you started if this is your first Flutter project:
+Video of app running:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/GabrielStahlberg/internationalization_training_flutter/assets/38026521/11e8448b-c4f2-4f22-96d8-e2171d3227dd
+
